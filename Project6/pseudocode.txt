@@ -1,0 +1,6 @@
+Largest Function:
+    For an array of no more than 20 integers, use a recursive function that computes the largest value
+    for an array of positive and negative integers. Recurrence relation: T(n) = T(n-1) + 1.
+
+Find Eagles Function:
+    Recursively examine and counts
